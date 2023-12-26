@@ -199,7 +199,7 @@ header .container nav .bars {
      */
     /* padding-top: var(--section-padding); */
     /* padding-bottom: var(--section-padding); */
-    background-image: url(../assets/background.png) var(--bg-color);
+    background-image: url(./assets/background.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
